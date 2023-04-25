@@ -7,4 +7,7 @@ Fórmula de Harversine en SQL
 🗺️ La segunda parte actualiza la tabla "TU_TABLA" con la distancia en metros utilizando la fórmula Haversine.
 
 
-* El cálculo está expresado en metros.
+https://github.com/geoidegeoidal/Harversine-SQL/blob/main/Harversine_update_SQL.sql
+
+
+NOTA: El cálculo está expresado en metros.
